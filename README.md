@@ -51,6 +51,9 @@ A simple mobile app written in Kotlin using Android Studio.
 4. Install the Android Emulator of your choice.
 5. Click the `Run` button to run the app in the Android Emulator.
 
+## Task 4 DSL
+1. HERE WAS AJ
+
 ## Resources
 
 - [Android Studio](https://developer.android.com/studio)
